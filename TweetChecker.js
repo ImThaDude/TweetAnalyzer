@@ -1,7 +1,7 @@
 var webdriver = require('selenium-webdriver');
 var firefox = require('selenium-webdriver/firefox');
 var prompt = require('prompt-async');
-var path = 'C:\\HDD Data\\Ewaco Analyzer\\Firefox Plugin\\geckodriver-v0.23.0-win64\\geckodriver.exe';
+var path = '.\\Firefox Plugin\\geckodriver-v0.23.0-win64\\geckodriver.exe';
 
 var service = new firefox.ServiceBuilder(path);
 
@@ -18,7 +18,7 @@ async function getTwitterData(twitterLink) {
     var retweets = await driver.findElement(webdriver.By.className('request-retweeted-popup')).getText();
     var favorited = await driver.findElement(webdriver.By.className('request-favorited-popup')).getText();
     var comments = await driver.findElement(webdriver.By.className('ProfileTweet-actionCount')).getAttribute('data-tweet-stat-count');
-    var day = new Date(Date.now()).toLocaleString();
+    var day = new Date(Date.now()).toTimeString();
     console.log(day + ' ' + tweeteruser + ' ' + retweets + ' ' + favorited + ' ' + comments + ' Comments');
 }
 
