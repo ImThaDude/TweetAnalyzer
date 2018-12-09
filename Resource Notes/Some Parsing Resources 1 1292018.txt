@@ -1,0 +1,33 @@
+Donald J. Trump (@realDonaldTrump) | Twitter
+https://twitter.com/realDonaldTrump
+
+gitignore/Node.gitignore at master · github/gitignore · GitHub
+https://github.com/github/gitignore/blob/master/Node.gitignore
+
+Ninja (@Ninja) | Twitter
+https://twitter.com/Ninja?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+
+How Can I Wait In Node.js (Javascript), l need to pause for a period of time - Stack Overflow
+https://stackoverflow.com/questions/14249506/how-can-i-wait-in-node-js-javascript-l-need-to-pause-for-a-period-of-time
+
+prompt-async - npm
+https://www.npmjs.com/package/prompt-async
+
+How do I prompt users for input from a command-line script? - docs.nodejitsu.com
+https://docs.nodejitsu.com/articles/command-line/how-to-prompt-for-command-line-input/
+
+JavaScript: async/await with forEach() – codeburst
+https://codeburst.io/javascript-async-await-with-foreach-b6ba62bbf404
+
+How to make your JavaScript functions sleep
+https://flaviocopes.com/javascript-sleep/
+
+javascript - How to add items to array in nodejs - Stack Overflow
+https://stackoverflow.com/questions/19084570/how-to-add-items-to-array-in-nodejs
+
+javascript - Using async/await with a forEach loop - Stack Overflow
+https://stackoverflow.com/questions/37576685/using-async-await-with-a-foreach-loop
+
+How to Get Current Date in User Readable Form in Nodejs · Issue #249 · nodejs/help · GitHub
+https://github.com/nodejs/help/issues/249
+

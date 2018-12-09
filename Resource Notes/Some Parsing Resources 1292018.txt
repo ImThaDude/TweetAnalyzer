@@ -1,0 +1,66 @@
+Thank you for downloading Visual Studio 2017 - Visual Studio
+https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=15#
+
+kinect v2 open source mocap - Google Search
+https://www.google.com/search?source=hp&ei=dLQMXJ27IIGU8AOmnYrACg&q=kinect+v2+open+source+mocap&btnK=Google+Search&oq=kinect+v2+open+source+mocap&gs_l=psy-ab.3...1243.15219..15307...5.0..5.545.9164.1j14j16j3j2j2....2..0....1..gws-wiz.....0..0j35i39j0i131j0i13j0i22i30j33i299j33i160j0i8i7i30j0i8i30.JAoSxyzOLbE
+
+Motion Capture (Body) | KINECTIC
+http://kinectic.net/motion-capture-mocap/
+
+DOFUS, the strategic MMORPG
+https://www.dofus.com/en/prehome
+
+(1) Moe Shop - Baby Pink (w/ YUC'e) - YouTube
+https://www.youtube.com/watch?v=qdMwV8cfzwI
+
+nodejs selenium - Google Search
+https://www.google.com/search?ei=A9MMXLysA-bY0gLm-aWICw&q=nodejs+selenium&oq=nodejs+selenium&gs_l=psy-ab.3..0j0i20i263j0l5j0i20i263j0l2.5482.21489..21680...12.0..0.119.2533.18j9....2..0....1..gws-wiz.......0i71j35i39j0i67j0i131j0i10i67j0i10j0i22i10i30j0i22i30j0i13i30.H4ZkWJQ6Hho
+
+How to write reliable browser tests using Selenium and Node.js
+https://medium.freecodecamp.org/how-to-write-reliable-browser-tests-using-selenium-and-node-js-c3fdafdca2a9
+
+WebdriverIO - WebDriver bindings for Node.js
+http://webdriver.io/
+
+Selenium testing with NodeJS | BrowserStack
+https://www.browserstack.com/automate/node
+
+Getting started with Selenium Webdriver for node.js
+https://team.goodeggs.com/getting-started-with-selenium-webdriver-for-node-js-f262a00c52e1
+
+Selenium WebDriver
+https://www.seleniumhq.org/projects/webdriver/
+
+using selenium nodejs firefox - Google Search
+https://www.google.com/search?source=hp&ei=ddMMXOvEBZKj0wLXkImwDA&q=using+selenium+nodejs+firefox&btnK=Google+Search&oq=using+selenium+nodejs+firefox&gs_l=psy-ab.3..33i22i29i30.1339.9475..9558...1.0..0.119.2708.21j9....2..0....1..gws-wiz.....0..0j35i39j0i131j0i67j0i10j0i20i263j0i22i30j0i22i10i30j0i8i13i10i30j0i8i13i30j33i299j33i160j33i22i10i29i30j33i10.wK0T4uDZrEE
+
+Setting up your own test automation environment | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Your_own_automation_environment
+
+Releases · mozilla/geckodriver · GitHub
+https://github.com/mozilla/geckodriver/releases/
+
+selenium/javascript/node/selenium-webdriver at master · SeleniumHQ/selenium · GitHub
+https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver
+
+WebDriverJS: Setting the binary | remarkablemark
+https://remarkablemark.org/blog/2016/06/15/firefox-binary-webdriverjs/
+
+node.js - The path to the driver executable must be set by the web driver.gecko.driver system property; Nightwatch - Stack Over
+https://stackoverflow.com/questions/38693682/the-path-to-the-driver-executable-must-be-set-by-the-web-driver-gecko-driver-sys/43370535
+
+selenium/javascript/node/selenium-webdriver at master · SeleniumHQ/selenium · GitHub
+https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver
+
+GitHub - mozilla/geckodriver: WebDriver for Firefox
+https://github.com/mozilla/geckodriver#selenium
+
+javascript - Passing require('chromedriver).path directly to selenium-webdriver - Stack Overflow
+https://stackoverflow.com/questions/27733731/passing-requirechromedriver-path-directly-to-selenium-webdriver
+
+JavaScript asynchrony and async/await in Selenium WebDriver Tests
+https://hackernoon.com/javascript-asynchrony-and-async-await-in-selenium-webdriver-tests-a89924421f65
+
+gitignore/Node.gitignore at master · github/gitignore · GitHub
+https://github.com/github/gitignore/blob/master/Node.gitignore
+
