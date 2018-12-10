@@ -1,7 +1,9 @@
 var webdriver = require('selenium-webdriver');
 var firefox = require('selenium-webdriver/firefox');
 var prompt = require('prompt-async');
+var dgram = require('dgram');
 var path = '.\\Firefox Plugin\\geckodriver-v0.23.0-win64\\geckodriver.exe';
+var enc = new TextEncoder();
 
 var service = new firefox.ServiceBuilder(path);
 var builder = new webdriver.Builder().forBrowser('firefox');
@@ -9,8 +11,9 @@ builder.setFirefoxService(service);
 
 var driver = builder.build();
 
-var time = 30;
 var tweetList = [];
+
+var client = dgram.createSocket('udp4');
 
 async function getTwitterData(twitterLink) {
     await driver.sleep(3000);
@@ -38,6 +41,10 @@ function getNumbers(numberString) {
     return numberString.match(numberPattern);
 }
 
+function createString(twitterData) {
+    return twitterData.time + ' ' + twitterData.twitterUser + ' ' + twitterData.twitterID + ' ' + twitterData.retweetCount + ' ' + twitterData.favoritedCount + ' ' + twitterData.commentCount;
+}
+
 function getTwitterID(twitterLink) {
     var ids = getNumbers(twitterLink);
     var id;
@@ -58,6 +65,11 @@ async function runInterator() {
             //console.log(tweetList[i]);
             try {
                 outputData = await getTwitterData(tweetList[i]);
+                var message = createString(outputData);
+                console.log(message);
+                client.send(message, 0, message.length, 7700, '127.0.0.1', (err, num) => {
+                    console.log("Error sending the port.");
+                });
             } catch (err) {
                 console.log(err);
                 console.log('Continuing...');
